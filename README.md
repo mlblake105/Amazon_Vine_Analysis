@@ -13,11 +13,11 @@ The Amazon Vine program is a service that allows manufacturers and publishers to
 
 ![Non-Vine Reviews](https://user-images.githubusercontent.com/96347933/163737786-2a38389f-24b6-4d49-aa36-661a1cbaef9b.png)
 
--Five Star Reviews
+- Five Star Reviews
 
 ![5 stars](https://user-images.githubusercontent.com/96347933/163737837-6870770b-35f7-4568-b756-a2e8fcbc3dde.png)
 
--Five Star Percentages
+- Five Star Percentages
 
 ![Percentages](https://user-images.githubusercontent.com/96347933/163737861-a453584b-bdbc-4d01-8844-2ee28ed94c6c.png)
 
